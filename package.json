@@ -1,0 +1,21 @@
+{
+  "name": "node-learn",
+  "version": "0.0.1",
+  "description": "yufei learn node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "learn"
+  ],
+  "author": "allanfish",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.24",
+    "debug": "^2.1.3",
+    "fdfs-client": "^0.5.4",
+    "lodash": "^3.6.0"
+  }
+}
